@@ -384,6 +384,7 @@ This document will be updated regularly as new information becomes available. **
 |STV Inc|❌|Offers rescinded due to concerns about reopening and inability to proivde a hands-on experience. |
 |SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
+|Sulzer US|❌||
 |Sysco|❌|Cancelled all internships offers and some full time.|
 |Team One|❌||
 |Tegna Inc.|❌||
@@ -802,6 +803,7 @@ This document will be updated regularly as new information becomes available. **
 |The Motley Fool|✅|Fully remote.|
 |Tik Tok|✅||
 |Tinder|✅|Going remote.|
+|Togg|✅|Remote.|
 |Toyota Research Institute|✅|Most likely go remote and possibility to reassess the situation later|
 |Toyota North America|✅|Remote.|
 |TransferWise|✅|Offers not sent, but people have been notified that they have passed the final rounds, although no answer about internship programme will be released until situation clears up.|
